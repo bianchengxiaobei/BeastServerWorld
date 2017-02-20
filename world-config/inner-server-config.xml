@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servers>
+	<server>
+		<server-name>世界服务器</server-name>
+		<server-id>30000</server-id>
+		<server-port>8200</server-port>
+		<server-web>beast</server-web>
+	</server>
+</servers>
